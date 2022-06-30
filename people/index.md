@@ -36,6 +36,11 @@ nav:
   text="Xinyang Ren is a PhD student in the Department of Biomedical Informatics at University of Washington."
 %}
 
-
+{%
+  include feature.html
+  image="images/people/Blank.png"
+  headline="Hiwot Zewdie"
+  text="Hiwot Zewdie is a PhD student in the Department of Epidemiology at University of Washington."
+%}
 
 
